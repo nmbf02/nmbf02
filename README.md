@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nmbf02/nmbf02/main/curly.png" alt="Nathaly Berroa" width="200" style="border-radius: 50%;">
+
 # 👋 ¡Hola! Soy Nathaly Berroa
 
 ## 🚀 Desarrolladora Full Stack | UX/UI | PHP | Laravel | Node.js | SQL
@@ -32,3 +36,5 @@ Actualmente, curso **Ingeniería en Sistemas Computacionales** en la **Universid
 ---
 
 ✨ Apasionada por la tecnología, la innovación y la creación de soluciones eficientes. ¡Siempre en busca de nuevos desafíos! 🚀
+
+</div>
