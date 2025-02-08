@@ -5,8 +5,11 @@
 # 👋 ¡Hola! Soy Nathaly Berroa
 
 ## 🚀 Desarrolladora Full Stack | UX/UI | PHP | Laravel | Node.js | SQL
+</div>
 
 Soy una desarrolladora Full Stack con más de **2+ años de experiencia** creando soluciones web dinámicas, eficientes y escalables. Me especializo en el desarrollo **backend y frontend**, utilizando tecnologías modernas como:
+
+### 📌 Tecnologías y Herramientas
 
 - **Lenguajes:** PHP, JavaScript, Python, C#, Node.js
 - **Frameworks:** Laravel
@@ -36,5 +39,3 @@ Actualmente, curso **Ingeniería en Sistemas Computacionales** en la **Universid
 ---
 
 ✨ Apasionada por la tecnología, la innovación y la creación de soluciones eficientes. ¡Siempre en busca de nuevos desafíos! 🚀
-
-</div>
