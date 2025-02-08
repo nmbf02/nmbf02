@@ -16,9 +16,8 @@ Actualmente, curso **Ingeniería en Sistemas Computacionales** en la **Universid
 ## 🏆 Proyectos Destacados
 
 - **[RoomLogic](https://github.com/nmbf02/RoomLogic)** - Aplicación de gestión hotelera en Android Java con arquitectura MVVM y una API-REST en Rust.
-- **[Domínguez Auto Pintura](https://github.com/nmbf02/DominguezAutoPintura)** - Desarrolladora web de la pagina: https://dominguezapintura.com/.
-- **[Mirage - Concesionario de Vehículos](https://github.com/nmbf02/Mirage)** - Plataforma para gestión de inventarios y ventas de vehículos.
-- **ERP-CRM KDev Software** - Sistema integral para gestión de inventarios y relaciones con clientes.
+- **[Domínguez Auto Pintura](https://github.com/nmbf02/Dom-nguezAPintura-Web)** - Desarrolladora web de la pagina: https://dominguezapintura.com/.
+- **[Mirage - Concesionario de Vehículos](https://github.com/nmbf02/SOFTWARE-WEB-MIRAGE)** - Plataforma para gestión de inventarios y ventas de vehículos.
 
 ## 📈 Estadísticas de GitHub
 
