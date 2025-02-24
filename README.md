@@ -11,12 +11,12 @@ Soy una desarrolladora Full Stack con más de **2+ años de experiencia** creand
 
 ### 📌 Tecnologías y Herramientas
 
-- **Lenguajes:** PHP, JavaScript, Python, C#, Node.js
-- **Frameworks:** Laravel
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla y Frameworks)
+- **Lenguajes:** PHP, JavaScript, Python, C#, Node.js, Java
+- **Frameworks:** Laravel, Next.js
+- **Frontend:** HTML5, CSS3, JavaScript (Frameworks)
 - **Bases de Datos:** MySQL, PostgreSQL
-- **Herramientas:** XAMPP, MySQL Workbench, Git, Docker, API REST, Postman
-- **Editores y Entornos de Desarrollo:** PHPStorm, Visual Studio Code (VSC), Visual Studio (VS)
+- **Herramientas:** XAMPP, MySQL Workbench, Git, Docker, API REST, Postman, Digital Ocean
+- **Editores y Entornos de Desarrollo:** PHPStorm, Visual Studio Code (VSC), Visual Studio (VS), Android Studio
 
 Actualmente, curso **Ingeniería en Sistemas Computacionales** en la **Universidad Tecnológica de Santiago (UTESA)** y trabajo en **Hidalsoft**, donde contribuyo al desarrollo de soluciones tecnológicas innovadoras.
 
