@@ -34,7 +34,7 @@ Actualmente, curso **Ingeniería en Sistemas Computacionales** en la **Universid
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nathalyberroa/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/nmbf02)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome)](https://tuportafolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome)](https://nmbf-portfolio.netlify.app/)
 
 ---
 
