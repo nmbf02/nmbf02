@@ -26,6 +26,10 @@ Actualmente, curso **Ingeniería en Sistemas Computacionales** en la **Universid
 - **[Domínguez Auto Pintura](https://github.com/nmbf02/Dom-nguezAPintura-Web)** - Desarrolladora web de la pagina: https://dominguezapintura.com/.
 - **[Mirage - Concesionario de Vehículos](https://github.com/nmbf02/SOFTWARE-WEB-MIRAGE)** - Plataforma para gestión de inventarios y ventas de vehículos.
 
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmbf02&layout=compact&theme=dark)
+
 ## 📈 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nmbf02&show_icons=true&theme=radical)
