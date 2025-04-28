@@ -1,11 +1,10 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/nmbf02/nmbf02/main/curly.jpg" alt="Nathaly Berroa" width="200" style="border-radius: 50%;">
 
-# 👋 ¡Hola! Soy Nathaly Berroa
-
-## 🚀 Desarrolladora Full Stack | UX/UI | PHP | Laravel | Node.js | SQL
+  # 👋 ¡Hola! Soy Nathaly Berroa
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+%26+App+Developer;Crafting+clean+and+functional+designs;Desarrolladora+Full+Stack;Scrum+Master;Especialista+en+UX%2FUI+%26+Automatizaci%C3%B3n+Web)](https://git.io/typing-svg)
 
 Soy una desarrolladora Full Stack con más de **2+ años de experiencia** creando soluciones web dinámicas, eficientes y escalables. Me especializo en el desarrollo **backend y frontend**, utilizando tecnologías modernas como:
 
