@@ -4,7 +4,7 @@
   # 👋 ¡Hola! Soy Nathaly Berroa
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Desarrolladora+de+Soluciones+Web+Escalables;Scrum+Master+en+Formación;Apasionada+por+UX%2FUI+y+Automatización)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Desarrolladora+de+Soluciones+Web+Escalables;Scrum+Master;Apasionada+por+UX%2FUI+y+Automatización)](https://git.io/typing-svg)
 
 Soy **Desarrolladora Full Stack** con más de **2 años de experiencia** construyendo soluciones web dinámicas, eficientes y escalables. Me especializo en el desarrollo tanto **frontend como backend**, priorizando el código limpio, la arquitectura sólida y experiencias digitales centradas en el usuario.
 
