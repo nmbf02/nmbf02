@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/nmbf02/nmbf02/main/readme-nmbf02.png" alt="Nathaly Berroa" width="200" style="border-radius: 50%;">
   
-  # 👋 ¡Hola! Soy Nathaly Berroa
+# 👋 ¡Hola! Soy Nathaly Berroa
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Desarrolladora+de+Soluciones+Web+Escalables;Scrum+Master;Apasionada+por+UX%2FUI+y+Automatización)](https://git.io/typing-svg)
 
 Soy **Desarrolladora Full Stack** con más de **2 años de experiencia** construyendo soluciones web dinámicas, eficientes y escalables. Me especializo en el desarrollo tanto **frontend como backend**, priorizando el código limpio, la arquitectura sólida y experiencias digitales centradas en el usuario.
 
-Actualmente estudio **Ingeniería en Sistemas Computacionales** en la **Universidad Tecnológica de Santiago (UTESA)**. Me desempeño como **Head of IT en Hidalsoft**, y **CEO and Founder de Kairos Studio**, una iniciativa creativa que fusiona arte y tecnología a través de kits sensoriales temáticos.
+Actualmente estudio **Ingeniería en Sistemas Computacionales** en la **Universidad Tecnológica de Santiago (UTESA)**. Me desempeño como **Web Master en ISA** y como **Consultora de Software en Advansys**, además de ser **CEO and Founder de Kairos Studio**, una iniciativa creativa que fusiona arte y tecnología a través de kits sensoriales temáticos.
 
 Estoy comprometida con la **innovación constante**, el **aprendizaje continuo** y la creación de productos digitales que realmente aporten valor.
 
@@ -50,11 +50,11 @@ Estoy comprometida con la **innovación constante**, el **aprendizaje continuo**
 
 ## 📊 Lenguajes más utilizados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmbf02&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmbf02&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nmbf02&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nmbf02&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
