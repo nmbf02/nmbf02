@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nmbf02/nmbf02/main/readme-nmbf02.png" alt="Nathaly Berroa" width="200" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/nmbf02/nmbf02/main/readme-nmbf02.jpeg" alt="Nathaly Berroa" width="200" style="border-radius: 50%;">
   
 # 👋 ¡Hola! Soy Nathaly Berroa
 </div>
