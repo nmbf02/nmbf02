@@ -40,21 +40,11 @@ Estoy comprometida con la **innovación constante**, el **aprendizaje continuo**
 
 | Proyecto | Tecnologías | Descripción | Visual |
 |----------|-------------|-------------|--------|
-| **RoomLogic**<br>[🔗 GitHub](https://github.com/nmbf02/RoomLogic) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-pattern-blue) | App Android para gestión hotelera con arquitectura MVVM y API REST en Rust. | 🏨🏢 |
-| **Domínguez Auto Pintura**<br>[🌐 Ver Sitio](https://dominguezapintura.com) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | Página institucional para negocio de pintura automotriz. | 🎨🚗 |
+| **RoomLogic**<br>[🔗 GitHub](https://github.com/nmbf02/RoomLogic) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-pattern-blue) | Aplicación Android para gestión hotelera con arquitectura MVVM y API REST desarrollada en Rust. | 🏨🏢 |
 | **Mirage — Concesionario**<br>[🔗 GitHub](https://github.com/nmbf02/SOFTWARE-WEB-MIRAGE) | ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) | Sistema web para ventas, inventario y mantenimientos de vehículos. | 🚗📊 |
-| **SD Reports**<br>🔒 Repositorio privado | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) | Plataforma interna de visualización de KPIs y reportes operativos con despliegue automatizado. | 📈📉 |
-
-
----
-
-## 📊 Lenguajes más utilizados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmbf02&layout=compact&theme=tokyonight&cache_seconds=86400)
-
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nmbf02&show_icons=true&theme=tokyonight&cache_seconds=86400)
+| **SD Reports**<br>🔒 Repositorio privado | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) | Plataforma interna para visualización de KPIs y reportes operativos con despliegue automatizado. | 📈📉 |
+| **Universidad ISA — Sitio Institucional**<br>[🌐 Ver Sitio](https://universidad-isa.netlify.app) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | Sitio web institucional moderno con gestión de contenido dinámico, oferta académica y admisiones. | 🎓🏫 |
+| **Equinox Insight Hub**<br>🔒 Repositorio privado | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | Dashboard administrativo para gestión de tickets, bancas y análisis de KPIs en tiempo real. | 📊📌 |
 
 ---
 
